@@ -1,11 +1,11 @@
 # Ask the user for some words
-place = raw_input("Name of a place: ")
-action = raw_input("An action that someone an do: " )
-action2 = raw_input("Another action: ")
-noisemaker = raw_input("Thing that makes noise: ")
-buy = raw_input("Something that you can buy: ")
-height = raw_input("How tall are you? ")
-gift = raw_input("Something you an hold in your hands: ")
+place = input("Name of a place: ")
+action = input("An action that someone an do: " )
+action2 = input("Another action: ")
+noisemaker = input("Thing that makes noise: ")
+buy = input("Something that you can buy: ")
+height = input("How tall are you? ")
+gift = input("Something you an hold in your hands: ")
 
 
 # Print out a blank line or two
